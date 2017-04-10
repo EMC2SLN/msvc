@@ -28,7 +28,7 @@ int main(int argc, char* argv[]) {
 
 	char *_start_adress = NULL;
 	char *_end_adress = NULL;
-	char * _file_name = "C:\\Users\\lz\\Desktop\\libnat.so";
+	char * _file_name = "C:\\Users\\MarissaSelina\\Desktop\\nisl.so";
 	/************************************************************************/
 	/*重要变量声明段*/
 	/************************************************************************/
