@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="dbg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="elf.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ELFToolHelp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="disassembly.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sys_eny.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="handlermaster.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VM.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{6e09d3ec-df22-4a10-8e58-5e26e1830f50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{d23ad8f8-278d-4db3-85f3-07c7839ef4d8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ELFToolHelp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="disassembly.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vmtest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="VM.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
